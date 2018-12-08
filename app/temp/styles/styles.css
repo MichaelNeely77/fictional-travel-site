@@ -1258,10 +1258,13 @@ Insteadd edit gulp/templates/sprite */
             padding: 12px 0;
             background-color: transparent
     }
+<<<<<<< HEAD
 
             .primary-nav a.is-current-link {
                 color: #fabb69;
             }
+=======
+>>>>>>> reveal-on-scroll
     }
 
 .reveal-item {
